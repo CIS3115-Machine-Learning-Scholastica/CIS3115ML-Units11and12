@@ -1,0 +1,51 @@
+V	IV	IV	I	V	I	V	
+V	vi	iii	IV	I	IV	V	
+VII	i	V	III	VII	i	V	i
+V	IV						
+V	VI	IV					
+IV	V						
+VI	III	VII					
+vi	IV	V					
+V	IV	V					
+IV	vi	V					
+V	IV	V					
+IV	bVII	IV					
+V	vi	iii	IV				
+bVII	IV						
+VII	VI						
+VI	II	V	I				
+I	I	I	IV	IV			
+I	V	V	I	I			
+VI	I	V					
+vi	IV	V					
+V	vi	IV					
+IV	V						
+IV	V	IV					
+IV	I						
+IV	I	V					
+V	VI	V					
+V	IV	III					
+I	V6	bVII					
+I	V6	VI					
+IV	I	V					
+VI	IV	V					
+VI	II	IV					
+III	IV	VI					
+V	I	IV					
+VI	I	IV					
+V	IV	III					
+V	VI	V					
+IV	III	VI					
+I	IV	V					
+IV	I	IV					
+V	I	V	I				
+IV	V	IV					
+IV	I	V					
+IV	V	V					
+V	IV	IV					
+IV	V	IV					
+IV	I	I					
+IV	I	IV					
+V	V	I					
+I	IV	VI					
+I	V	VII					
